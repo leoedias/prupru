@@ -1,0 +1,4 @@
+"AadClientId": "5319da5f-5004-400f-bae9-9d85d35bec66",
+  "AadSecret": "e2e3f9b3-c376-4e2e-8f54-e72c8987b3ef",
+  "AadTenantDomain": "81a0f372-d5cd-4369-a46f-ec9b42720937",
+  "AadTenantId": "5319da5f-5004-400f-bae9-9d85d35bec66",
